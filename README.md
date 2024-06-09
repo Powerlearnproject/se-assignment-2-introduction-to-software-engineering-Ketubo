@@ -27,37 +27,36 @@ Differences:
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 The Waterfall model is a traditional, linear approach to software development, where the project progresses sequentially through distinct phases such as requirements gathering, design, implementation, testing, and deployment. The key characteristics of the Waterfall model are:
 
--Sequential, linear approach: Each phase must be completed before moving on to the next.
--Rigid, inflexible: Changes are difficult and expensive to implement once a phase is complete.
--Emphasis on upfront planning and documentation: Extensive planning and documentation are required before any coding begins.
--Suitable for projects with well-defined, stable requirements: The Waterfall model works best when the requirements are clear and unlikely to change significantly during the project.
+	-Sequential, linear approach: Each phase must be completed before moving on to the next.
+	-Rigid, inflexible: Changes are difficult and expensive to implement once a phase is complete.
+	-Emphasis on upfront planning and documentation: Extensive planning and documentation are required before any coding begins.
+	-Suitable for projects with well-defined, stable requirements: The Waterfall model works best when the requirements are clear and unlikely to change significantly during the project.
 
 In contrast, the Agile model is an iterative and incremental approach to software development, where the project is divided into smaller, manageable iterations (sprints) that deliver working software incrementally. The key characteristics of the Agile model are:
--Iterative and incremental development: The project is broken down into smaller, manageable pieces that are developed and delivered in short iterations.
--Flexibility and adaptability: Agile teams are able to respond to changing requirements and priorities throughout the project.
--Collaboration and communication: Agile emphasizes close collaboration between the development team, stakeholders, and customers.
--Suitable for projects with changing or uncertain requirements: The Agile model works best when the requirements are not fully known upfront or are likely to change during the project.
+	-Iterative and incremental development: The project is broken down into smaller, manageable pieces that are developed and delivered in short iterations.
+	-Flexibility and adaptability: Agile teams are able to respond to changing requirements and priorities throughout the project.
+	-Collaboration and communication: Agile emphasizes close collaboration between the development team, stakeholders, and customers.
+	-Suitable for projects with changing or uncertain requirements: The Agile model works best when the requirements are not fully known upfront or are likely to change during the project.
 In terms of scenarios where each model might be preferred:
--The Waterfall model is often preferred for projects with well-defined, stable requirements, where the scope and timeline are clearly understood upfront. It is also suitable for projects with strict regulatory or compliance requirements.
--The Agile model is preferred for projects with changing or uncertain requirements, where the ability to adapt to change is crucial. It is also suitable for projects with a need for faster time-to-market and frequent feedback from customers.
--Ultimately, the choice between the Waterfall and Agile models depends on the specific project requirements, the level of uncertainty, the need for flexibility, and the overall organizational culture and preferences.
+	-The Waterfall model is often preferred for projects with well-defined, stable requirements, where the scope and timeline are clearly understood upfront. It is also suitable for projects with strict regulatory or compliance requirements.
+	-The Agile model is preferred for projects with changing or uncertain requirements, where the ability to adapt to change is crucial. It is also suitable for projects with a need for faster time-to-market and frequent feedback from customers.
 
 # Requirements Engineering:
 
 ## What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Requirements engineering (RE) refers to the process of defining, documenting, and maintaining requirements in the engineering design process. Requirement engineering provides the appropriate mechanism to understand what the customer desires, analyzing the need, and assessing feasibility, negotiating a reasonable solution, specifying the solution clearly, validating the specifications and managing the requirements as they are transformed into a working system.
-It is a 5-step process namely:
-Feasibility Study - Evaluating technical, operational, and economic feasibility to ensure the software meets user needs, is adaptable to change, and adheres to standards.
-Requirement Elicitation and Analysis - Identifying requirements with customer input, analyzing them for inconsistencies, and resolving conflicts.
-Software Requirement Specification - Documenting requirements in technical language using tools like ER diagrams, data flow diagrams, and entity-relationship diagrams.
-Software Requirement Validation - Validating requirements to ensure they are implementable, correct, unambiguous, and complete, using techniques like reviews, prototyping, test-case generation, and consistency analysis.
+It is a 4-step process namely:
+	-Feasibility Study - Evaluating technical, operational, and economic feasibility to ensure the software meets user needs, is adaptable to change, and adheres to standards.
+	-Requirement Elicitation and Analysis - Identifying requirements with customer input, analyzing them for inconsistencies, and resolving conflicts.
+	-Software Requirement Specification - Documenting requirements in technical language using tools like ER diagrams, data flow diagrams, and entity-relationship diagrams.
+	-Software Requirement Validation - Validating requirements to ensure they are implementable, correct, unambiguous, and complete, using techniques like reviews, prototyping, test-case generation, and consistency analysis.
 
 Importance:
--Ensure the software being developed meets the customer's actual needs and expectations.
--Provide a clear and well-defined set of requirements to guide the development process.
--Identify and resolve issues or conflicts in the requirements early on, before they    become costly to fix.
--Establish a baseline for testing and validation to ensure the final product meets the specified requirements.
--Facilitate effective communication and collaboration between the development team and the customer.
+	-Ensure the software being developed meets the customer's actual needs and expectations.
+	-Provide a clear and well-defined set of requirements to guide the development process.
+	-Identify and resolve issues or conflicts in the requirements early on, before they    become costly to fix.
+	-Establish a baseline for testing and validation to ensure the final product meets the specified requirements.
+	-Facilitate effective communication and collaboration between the development team and the customer.
 
 # Software Design Principles:
 
